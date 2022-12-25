@@ -24,13 +24,3 @@ Enter sequence elements:  <br/>
 Output: <br/>
 <img src="https://i.imgur.com/eUlS7Wh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
