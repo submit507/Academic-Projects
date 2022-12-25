@@ -1,44 +1,28 @@
 <h1>Academic projects 🏫</h1>
 
 
-<h2>Sorting Algorithims</h2>
-Project consists of developing various sorting algorithims
+<h2>SortAlgorithims</h2>
+Project consists of developing Merge Sort, Quick Sort, and Heap Sort algorithms.
 <br />
 
 
-<h2>Language(s) Used</h2>
+<h3>Language(s) Used</h3>
 
 - <b>Java</b> 
 
-<h2>Program walk-through:</h2>
+<h3>Program walk-through:</h3>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter sequence length: <br/>
+<img src="https://i.imgur.com/LUvBEmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter sequence elements:  <br/>
+<img src="https://i.imgur.com/7QAjC4R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Output: <br/>
+<img src="https://i.imgur.com/eUlS7Wh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
