@@ -1,4 +1,4 @@
-<h1>Academic projects 🏫</h1>
+<h1>Academic Projects 🏫</h1>
 
 
 <h2>SortAlgorithims</h2>
