@@ -1,5 +1,7 @@
 <h1>Academic Projects 🏫</h1>
 
+<b> University of Windsor - Windsor, Ontario
+
 
 <h2>SortAlgorithims</h2>
 Project consists of developing Merge Sort, Quick Sort, and Heap Sort algorithms.
